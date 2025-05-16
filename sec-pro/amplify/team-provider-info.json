@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-secpro-dev-ecfbe-authRole",
+      "UnauthRoleArn": "arn:aws:iam::475852407060:role/amplify-secpro-dev-ecfbe-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::475852407060:role/amplify-secpro-dev-ecfbe-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-secpro-dev-ecfbe-deployment",
+      "UnauthRoleName": "amplify-secpro-dev-ecfbe-unauthRole",
+      "StackName": "amplify-secpro-dev-ecfbe",
+      "StackId": "arn:aws:cloudformation:us-east-1:475852407060:stack/amplify-secpro-dev-ecfbe/09812aa0-325e-11f0-adee-0affef43ad85",
+      "AmplifyAppId": "d3etqekijwhg2w"
+    },
+    "categories": {
+      "auth": {
+        "secpro9242403a": {}
+      }
+    }
+  }
+}
